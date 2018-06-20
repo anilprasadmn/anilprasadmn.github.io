@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my personal home page
 
-You can use the [editor on GitHub](https://github.com/anilprasadmn/anilprasadmn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am presently an industrial researcher with `The Inkers technology Private Limited.` At [Inkers](https://theinkers.com) I work in the feild of Computer Vision and Artificial Intelligence. My day job involves translating advancments in Deep neural networks in the feild of computer vision to holistic integrated systems that solves vision in a realtime and scalable fashion. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### my personal outlook towards research
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Research is useless if its not open-source, open-access, easily reproducable and collaborative. 
 ```
+in that retrospect, I love the feild of AI which has adhered to these standards and love the cultural standards it has set in research.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+PS: due to unavoidable constraints, most of my non-published research has not been opensource repositories. 
 
-### Jekyll Themes
+### About life, fun, work ...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anilprasadmn/anilprasadmn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I belive that we are a species that will perish one day. Its inevitable. We will be survived by a new species that we will nurture. We have taken baby steps towards that. In such grand scheme of things, Our lives will have little meaning beyond the ones we find simple pleasures in and what we leave behind. I yearn to see the miracle of such a leap in our existance and can work tirelessly for such an end. If you share such a view about life, please shoot me a mail and we will defenitely click. My mantra will be `Enjoy, Work and nurture.ai.`
 
-### Support or Contact
+### other Links / media links
+[linkedin](https://www.linkedin.com/in/anilprasadmn/)
+[facebook](https://www.facebook.com/anilprasadmn)
+[twitter](https://twitter.com/anilprasadmn)
+[GoogleScholoar](https://scholar.google.com/citations?user=wbhEKCcAAAAJ&hl=en)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Shoot me an [email](anilprasadmn@gmail.com) in case you want to reach out to me. 
