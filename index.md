@@ -2,7 +2,7 @@
 
 I am presently an industrial researcher with `The Inkers technology Private Limited.` At [Inkers](https://theinkers.com) I work in the feild of Computer Vision and Artificial Intelligence. My day job involves translating advancments in Deep neural networks in the feild of computer vision to holistic integrated systems that solves vision in a realtime and scalable fashion.
 
-I also organize [RHOK bangalore] (https://rhokbangalore.wordpress.com) a global community of technologists dedicated to solving problems for charities, non-profits and social enterprises. Previously, I was a consultant with bendflex and enable india. I got my Masters in Engineering throught research (MSc) from the Indian Institute of Science, Bangalore in the feild of computer vision. I got into machine learning during my undergrad in PESIT-South Campus, which got my first ACM publication "Gaussian mixture model-expectation maximization based signal strength prediction for seamless connectivity in hybrid wireless networks".
+I also organize [RHOK bangalore](https://rhokbangalore.wordpress.com) a global community of technologists dedicated to solving problems for charities, non-profits and social enterprises. Previously, I was a consultant with bendflex and enable india. I got my Masters in Engineering throught research (MSc) from the Indian Institute of Science, Bangalore in the feild of computer vision. I got into machine learning during my undergrad in PESIT-South Campus, which got my first ACM publication "Gaussian mixture model-expectation maximization based signal strength prediction for seamless connectivity in hybrid wireless networks".
 
 ### my personal outlook towards research
 
